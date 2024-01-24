@@ -1,0 +1,40 @@
+#about-pic {
+    height: 600px;
+    width: 600px;
+    border-radius: 10%;
+}
+
+#about-pic:hover {
+    transform: scale(0.9);
+}
+
+.about-container {
+    display: flex;
+    margin: 30px;
+    padding: 30px;
+}
+
+/* Responsive styles for smaller screens */
+
+@media screen and (max-width:1024px) {
+    .about-container {
+        display: block;
+    }
+
+    #about-pic {
+        height: 400px;
+        width: 400px;
+        border-radius: 20%;
+    }
+}
+
+@media screen and (max-width:425px) {
+    #about-pic {
+        height: 300px;
+        width: 300px;
+    }
+
+    body {
+        text-align: justify;
+    }
+}
