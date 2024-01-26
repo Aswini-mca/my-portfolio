@@ -55,7 +55,7 @@ a:hover {
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
-img:hover {
+#home-img:hover {
   transform: scale(1.1);
 }
 

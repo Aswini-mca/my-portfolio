@@ -16,6 +16,7 @@ function About() {
           <p>Driven by a thirst for knowledge, I undertook a Full Stack Developer course on the MERN stack with GUVI GEEK NETWORK in 2023.</p>
           <p>My skills includes Html, Css, Javascript, React, NodeJs, Bootstrap, MaterialUi,    Mongodb...</p>
           <p>Apart from coding I like to hear Music, drawing and Art work.</p>
+          <p>I Know English, Tamil, and Sowrashtra languages.</p>
           <p>I am now eagerly seeking opportunities to apply my knowledge and skills in a challenging and collaborative environment. Let's build something incredible together!</p>
         </div>
       </div>

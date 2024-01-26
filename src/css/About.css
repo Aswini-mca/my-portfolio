@@ -38,3 +38,10 @@
         text-align: justify;
     }
 }
+
+@media screen and (max-width:375px) {
+    #about-pic {
+        height: 200px;
+        width: 200px;
+    }
+}
