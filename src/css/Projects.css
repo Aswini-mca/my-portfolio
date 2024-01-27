@@ -1,0 +1,21 @@
+.project-container{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+
+.text-description{
+    text-align: left;
+}
+
+.project-item:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* Responsive styles for smaller screens */
+
+@media  screen and (max-width:320px) {
+    .text-description{
+        text-align: center;
+    }
+}

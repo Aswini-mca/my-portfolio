@@ -1,9 +1,9 @@
 import React from 'react'
-import pic1 from '../Assets/RankCertificate1.jpeg'
-import pic2 from '../Assets/RankCertificate2.jpeg'
-import pic3 from '../Assets/FSD Certificate.png'
-import pic4 from '../Assets/Topper1.jpeg'
-import pic5 from '../Assets/Topper2.jpeg'
+import pic1 from '../Assets/Certificates/RankCertificate1.jpeg'
+import pic2 from '../Assets/Certificates/RankCertificate2.jpeg'
+import pic3 from '../Assets/Certificates/FSD Certificate.png'
+import pic4 from '../Assets/Certificates/Topper1.jpeg'
+import pic5 from '../Assets/Certificates/Topper2.jpeg'
 import '../css/Certificate.css'
 
 function Certificates() {

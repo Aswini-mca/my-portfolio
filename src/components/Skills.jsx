@@ -1,14 +1,14 @@
 import React from 'react'
 import '../css/Skills.css'
-import HtmlIcon from '../Assets/Html.svg'
-import CssIcon from '../Assets/Css.svg'
-import JavascriptIcon from '../Assets/Javascript.svg'
-import ReactIcon from '../Assets/React.svg'
-import NodeJsIcon from '../Assets/NodeJs.svg'
-import MongoDBIcon from '../Assets/MongoDb.svg'
-import ExpressIcon from '../Assets/Express.svg'
-import BootstrapIcon from '../Assets/Bootstrap.svg'
-import MaterialUiIcon from '../Assets/Material-Ui.svg'
+import HtmlIcon from '../Assets/Skills/Html.svg'
+import CssIcon from '../Assets/Skills/Css.svg'
+import JavascriptIcon from '../Assets/Skills/Javascript.svg'
+import ReactIcon from '../Assets/Skills/React.svg'
+import NodeJsIcon from '../Assets/Skills/NodeJs.svg'
+import MongoDBIcon from '../Assets/Skills/MongoDb.svg'
+import ExpressIcon from '../Assets/Skills/Express.svg'
+import BootstrapIcon from '../Assets/Skills/Bootstrap.svg'
+import MaterialUiIcon from '../Assets/Skills/Material-Ui.svg'
 
 function Skills() {
 
