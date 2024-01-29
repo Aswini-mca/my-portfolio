@@ -18,7 +18,7 @@ function Projects() {
         {
             projectName: 'Social Media App',
             image: SMA,
-            Description: 'A simple Social Media App featuring user profiles, posts, likes, and comments. Connect with friends and share your thoughts in this interactive platform.',
+            Description: 'A simple Social Media App featuring user profiles, posts, likes, and comments. Connect with friends and share your thoughts in this interactive platform. (Demo Credential: username:People1, Password:Assu@123)',
             GitLink: {
                 frontEnd: 'https://github.com/Aswini-mca/social-media-app-frontend',
                 backEnd: 'https://github.com/Aswini-mca/social-media-app-backend'
@@ -28,7 +28,7 @@ function Projects() {
         {
             projectName: 'Assign Mentor App',
             image: AMA,
-            Description: 'Manage mentor-student relationships effortlessly with this app. Assign mentors to students for a streamlined educational experience.',
+            Description: 'Manage mentor-student relationships effortlessly with this app. Assign mentors to students for a streamlined educational experience. (Created 7 students studentId:1,2,3,4,5,6,7 and 2 mentors mentorId:1,2)',
             GitLink: {
                 frontEnd: ' https://github.com/Aswini-mca/react-assign-mentor',
                 backEnd: 'https://github.com/Aswini-mca/assign-mentor'
@@ -38,7 +38,7 @@ function Projects() {
         {
             projectName: 'URL Shortener App',
             image: URL,
-            Description: 'Create short URLs for long links with this URL Shortener App. Simplify link sharing and tracking.',
+            Description: 'Create short URLs for long links with this URL Shortener App. Simplify link sharing and tracking.(Demo Credential: username:user@123.com, password:Password@123)',
             GitLink: {
                 frontEnd: 'https://github.com/Aswini-mca/urlshortener-frontend',
                 backEnd: 'https://github.com/Aswini-mca/urlshortener-backend'
