@@ -30,7 +30,7 @@ function Projects() {
             image: AMA,
             Description: 'Manage mentor-student relationships effortlessly with this app. Assign mentors to students for a streamlined educational experience. (Created 7 students studentId:1,2,3,4,5,6,7 and 2 mentors mentorId:1,2)',
             GitLink: {
-                frontEnd: ' https://github.com/Aswini-mca/react-assign-mentor',
+                frontEnd: 'https://github.com/Aswini-mca/react-assign-mentor',
                 backEnd: 'https://github.com/Aswini-mca/assign-mentor'
             },
             NetlifyLink: 'https://dynamic-daffodil-2734f0.netlify.app/'
@@ -80,7 +80,7 @@ function Projects() {
             image: BLOG,
             Description: 'Explore a simple blog page created using React Router Dom. Navigate through different blog posts with ease.',
             GitLink: {
-                frontEnd: 'https://github.com/Aswini-mca/react-formik-task/tree/main',
+                frontEnd: 'https://github.com/Aswini-mca/react-router-task/tree/master',
                 backEnd: false
             },
             NetlifyLink: 'https://glowing-twilight-9f2380.netlify.app/'
