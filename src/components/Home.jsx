@@ -7,7 +7,7 @@ export function Home() {
         <div>
             <div className='p-5'>
                 <div className='home-container mt-5'>
-                    <Link className='no-hover' to='https://docs.google.com/document/d/1XxEViWTNPpqDBokn0Ad9zYmRWeO4hHY1/edit?usp=sharing&ouid=112232040554459516637&rtpof=true&sd=true'
+                    <Link className='no-hover' to='https://drive.google.com/file/d/1GChDerLFUUYUAhEqFlnmbP8ari-xac8Y/view?usp=sharing'
                         target='_blank' title={'Resume ⬇️'} rel='noreferrer'><img id='home-img' src={myPic} alt='...' /></Link>
                     <div className='mt-5 text-center'>
                         <h1 className='p-3 head'>Hello, I Am Aswini</h1>

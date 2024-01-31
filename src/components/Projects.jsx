@@ -2,12 +2,12 @@ import React from 'react'
 import '../css/Projects.css'
 import SMA from '../Assets/Projects/Social Media App.png'
 import AMA from '../Assets/Projects/Assign Mentor App.png'
-import URL from '../Assets/Projects/URL Shortener App.png'
 import PRF from '../Assets/Projects/Password Reset Flow.png'
 import SC from '../Assets/Projects/Shopping Cart.png'
 import LMS from '../Assets/Projects/Library Management.png'
 import BLOG from '../Assets/Projects/Blog Page using Router.png'
 import USERAPP from '../Assets/Projects/User APP using React Axios.png'
+import REDUX from '../Assets/Projects/Cart page using Redux.png'
 import APIFETCH from '../Assets/Projects/Using fetch API.png'
 import { Link } from 'react-router-dom'
 
@@ -36,14 +36,14 @@ function Projects() {
             NetlifyLink: 'https://dynamic-daffodil-2734f0.netlify.app/'
         },
         {
-            projectName: 'URL Shortener App',
-            image: URL,
-            Description: 'Create short URLs for long links with this URL Shortener App. Simplify link sharing and tracking.(Demo Credential: username:user@123.com, password:Password@123)',
+            projectName: 'User App',
+            image: USERAPP,
+            Description: 'Fetch data from an API using Axios with this User App. Perform CRUD operations to add, edit, delete, and update user information.',
             GitLink: {
-                frontEnd: 'https://github.com/Aswini-mca/urlshortener-frontend',
-                backEnd: 'https://github.com/Aswini-mca/urlshortener-backend'
+                frontEnd: 'https://github.com/Aswini-mca/react-axios-task',
+                backEnd: 'https://github.com/Aswini-mca/user-app-backend'
             },
-            NetlifyLink: 'https://cosmic-pudding-d7eb99.netlify.app/'
+            NetlifyLink: 'https://helpful-gumption-d9fe10.netlify.app/'
         },
         {
             projectName: 'Password Reset Flow',
@@ -86,15 +86,16 @@ function Projects() {
             NetlifyLink: 'https://glowing-twilight-9f2380.netlify.app/'
         },
         {
-            projectName: 'User App',
-            image: USERAPP,
-            Description: 'Fetch data from an API using Axios with this User App. Perform CRUD operations to add, edit, delete, and update user information.',
+            projectName: 'Cart Page using Redux',
+            image: REDUX,
+            Description: 'A simple cart page using redux concept, you can increase the quantity for a favorite products and also decrease the quantity is possible.',
             GitLink: {
-                frontEnd: 'https://github.com/Aswini-mca/react-axios-task',
+                frontEnd: 'https://github.com/Aswini-mca/react-redux-task',
                 backEnd: false
             },
-            NetlifyLink: 'https://guileless-monstera-78ae3c.netlify.app/'
+            NetlifyLink: 'https://courageous-eclair-dfa3f4.netlify.app/'
         },
+        
         {
             projectName: 'API Fetch',
             image: APIFETCH,
